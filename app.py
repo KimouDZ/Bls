@@ -70,5 +70,5 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"حدث خطأ: {e}")
         # انتظر 10 دقائق قبل الفحص التالي
-        time.sleep(600)
+        time.sleep(60)
       
